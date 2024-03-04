@@ -1,6 +1,4 @@
-name: deploy-book
-
-name: deploy-book
+name: deploy
 
 # Run this when the main branch changes
 on:
