@@ -18,3 +18,10 @@ chapters:
     title: Computational Thinking and Me
   - file: Module_1/Module1_Unit2
     title: Computational Thinking in Action
+  - file: Module_1/Module1_Unit3
+    title: Why is it important for K-12 students to learn computational thinking?
+- file: Module_2/Module1_Overview
+  title: Module 2 - What is an Algorithm?
+  sections:
+  - file: Module_2/Module2_Unit1
+    title: What is an Algorithm?
