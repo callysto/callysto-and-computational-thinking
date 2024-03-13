@@ -48,3 +48,16 @@ chapters:
     title: Adding Interactive Elements
   - file: Module_2/Module2_Unit4A
     title: Adding Math Formulas (Optional)
+- file: Module_4/Module4_Overview
+  title: Module 4 - Managing your own Notebooks in Callysto
+  sections:
+  - file: Module_4/Module4_Unit1
+    title: The Components of Callysto
+  - file: Module_4/Module4_Unit2
+    title: The Callysto Hub
+  - file: Module_4/Module4_Unit3
+    title: Creating Your Own Notebooks
+  - file: Module_4/Module4_Unit4
+    title: Accessing Callysto Curriculum-Based Notebooks
+  - file: Module_4/Module4_Unit5
+    title: Finding Other Notebooks Online
