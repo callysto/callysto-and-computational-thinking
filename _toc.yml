@@ -72,3 +72,16 @@ chapters:
     title: Functions and Graphing
   - file: Module_5/Module5_Unit4
     title: Putting it all Together
+    - file: Module_6/Module6_Overview
+  title: Module 6 - Programming in Jupyter Notebooks
+  sections:
+  - file: Module_6/Module6_Unit1
+    title: Data Analysis
+  - file: Module_6/Module6_Unit2
+    title: Getting Started with Data Analysis
+  - file: Module_6/Module6_Unit3
+    title: Working with Open Data
+  - file: Module_6/Module6_Unit4
+    title: Classroom Application (Optional)
+  - file: Module_6/Module6_Unit5
+    title: Data Analysis and the Jupyter Notebook
