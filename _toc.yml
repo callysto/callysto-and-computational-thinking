@@ -61,17 +61,14 @@ chapters:
     title: Accessing Callysto Curriculum-Based Notebooks
   - file: Module_4/Module4_Unit5
     title: Finding Other Notebooks Online
-<<<<<<< Updated upstream
-=======
 - file: Module_5/Module5_Overview
-  title: Module 5 - Managing your own Notebooks in Callysto
+  title: Module 5 - Programming in Jupyter Notebooks
   sections:
   - file: Module_5/Module5_Unit1
-    title: The Components of Callysto
+    title: A Closer Look at Cell Types
   - file: Module_5/Module5_Unit2
-    title: The Callysto Hub
+    title: Intro to Python Programming
   - file: Module_5/Module5_Unit3
-    title: Creating Your Own Notebooks
+    title: Functions and Graphing
   - file: Module_5/Module5_Unit4
-    title: Accessing Callysto Curriculum-Based Notebooks
->>>>>>> Stashed changes
+    title: Putting it all Together
