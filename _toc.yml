@@ -61,3 +61,17 @@ chapters:
     title: Accessing Callysto Curriculum-Based Notebooks
   - file: Module_4/Module4_Unit5
     title: Finding Other Notebooks Online
+<<<<<<< Updated upstream
+=======
+- file: Module_5/Module5_Overview
+  title: Module 5 - Managing your own Notebooks in Callysto
+  sections:
+  - file: Module_5/Module5_Unit1
+    title: The Components of Callysto
+  - file: Module_5/Module5_Unit2
+    title: The Callysto Hub
+  - file: Module_5/Module5_Unit3
+    title: Creating Your Own Notebooks
+  - file: Module_5/Module5_Unit4
+    title: Accessing Callysto Curriculum-Based Notebooks
+>>>>>>> Stashed changes
