@@ -72,7 +72,7 @@ chapters:
     title: Functions and Graphing
   - file: Module_5/Module5_Unit4
     title: Putting it all Together
-    - file: Module_6/Module6_Overview
+- file: Module_6/Module6_Overview
   title: Module 6 - Programming in Jupyter Notebooks
   sections:
   - file: Module_6/Module6_Unit1
