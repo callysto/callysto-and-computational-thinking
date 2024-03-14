@@ -35,3 +35,53 @@ chapters:
     title: What is Programming?
   - file: Module_2/Module2_Unit6
     title: Algorithmic Notation
+- file: Module_3/Module3_Overview
+  title: Module 3 - Computational Thinking and Jupyter Notebooks
+  sections:
+  - file: Module_3/Module3_Unit1
+    title: Introduction to Jupyter Notebooks
+  - file: Module_3/Module3_Unit2
+    title: Opening Your First Jupyter Notebook
+  - file: Module_3/Module3_Unit3
+    title: Modifying a Notebook
+  - file: Module_3/Module3_Unit4
+    title: Adding Interactive Elements
+  - file: Module_3/Module3_Unit4A
+    title: Adding Math Formulas (Optional)
+- file: Module_4/Module4_Overview
+  title: Module 4 - Managing your own Notebooks in Callysto
+  sections:
+  - file: Module_4/Module4_Unit1
+    title: The Components of Callysto
+  - file: Module_4/Module4_Unit2
+    title: The Callysto Hub
+  - file: Module_4/Module4_Unit3
+    title: Creating Your Own Notebooks
+  - file: Module_4/Module4_Unit4
+    title: Accessing Callysto Curriculum-Based Notebooks
+  - file: Module_4/Module4_Unit5
+    title: Finding Other Notebooks Online
+- file: Module_5/Module5_Overview
+  title: Module 5 - Programming in Jupyter Notebooks
+  sections:
+  - file: Module_5/Module5_Unit1
+    title: A Closer Look at Cell Types
+  - file: Module_5/Module5_Unit2
+    title: Intro to Python Programming
+  - file: Module_5/Module5_Unit3
+    title: Functions and Graphing
+  - file: Module_5/Module5_Unit4
+    title: Putting it all Together
+- file: Module_6/Module6_Overview
+  title: Module 6 - Programming in Jupyter Notebooks
+  sections:
+  - file: Module_6/Module6_Unit1
+    title: Data Analysis
+  - file: Module_6/Module6_Unit2
+    title: Getting Started with Data Analysis
+  - file: Module_6/Module6_Unit3
+    title: Working with Open Data
+  - file: Module_6/Module6_Unit4
+    title: Classroom Application (Optional)
+  - file: Module_6/Module6_Unit5
+    title: Data Analysis and the Jupyter Notebook
